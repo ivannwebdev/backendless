@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbackendless=self.webpackChunkbackendless||[]).push([[978],{978:function(e,s,c){e.exports=c.p+"static/media/chart.c35f76d9d6ca69945a2b.png"}}]);

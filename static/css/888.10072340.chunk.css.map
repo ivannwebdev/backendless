@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/888.10072340.chunk.css","mappings":"AAAA,OACE,eACF,CAEA,WACE,UACF,CAEA,UACE,iBACF","sources":["tabs/dummyChart.css"],"sourcesContent":[".chart {\r\n  margin-top: 1rem;\r\n}\r\n\r\n.chart img {\r\n  width: 55vw;\r\n}\r\n\r\n.chart h2 {\r\n  text-align: center;\r\n}\r\n"],"names":[],"sourceRoot":""}
