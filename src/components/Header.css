@@ -1,0 +1,22 @@
+.header {
+  display: flex;
+  position: sticky;
+  align-items: center;
+  background-color: teal;
+  padding: 1rem;
+}
+
+.nav {
+  display: flex;
+  gap: 2rem;
+  cursor: pointer;
+}
+
+.nav-item {
+  font-size: 16;
+  color: white;
+}
+
+.nav-item:hover {
+  color: lightgray;
+}

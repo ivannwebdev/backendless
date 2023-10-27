@@ -1,0 +1,11 @@
+.content {
+  height: 85vh;
+  display: flex;
+  justify-content: center;
+}
+
+.navbar {
+  display: flex;
+  gap: 2rem;
+  cursor: pointer;
+}
